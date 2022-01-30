@@ -12,8 +12,9 @@ The dataset is made manually by running the __*Image Collection python file*__ t
 The image annotations is done with the help of LabelImage file which you can use by simply git cloning the following:<br>
 [Git link](https://github.com/tzutalin/labelImg)<br>
 
+# TEST DATASET OUTPUT
 
-
+![asl_result](https://user-images.githubusercontent.com/64598746/151710894-e128dcf8-575a-41e3-8f8b-59396d6046fd.png)
 
 
 # DEMO
