@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>iloveyou.fe620475-810c-11ec-bc73-d14f6f1810bb.jpg</filename>
+	<path>C:\Users\utaku\Desktop\PROJECTS\ASL\Tensorflow\workspace\images\collectedimages\iloveyou.fe620475-810c-11ec-bc73-d14f6f1810bb.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>iloveyou</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>328</xmin>
+			<ymin>110</ymin>
+			<xmax>530</xmax>
+			<ymax>331</ymax>
+		</bndbox>
+	</object>
+</annotation>

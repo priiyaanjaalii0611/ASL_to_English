@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>please.09204d04-810d-11ec-84fa-d14f6f1810bb.jpg</filename>
+	<path>C:\Users\utaku\Desktop\PROJECTS\ASL\Tensorflow\workspace\images\collectedimages\please.09204d04-810d-11ec-84fa-d14f6f1810bb.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>please</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>293</xmin>
+			<ymin>324</ymin>
+			<xmax>474</xmax>
+			<ymax>469</ymax>
+		</bndbox>
+	</object>
+</annotation>
